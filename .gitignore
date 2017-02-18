@@ -1,0 +1,10 @@
+/.classpath
+/.project
+/.settings
+/bin/br/com/enviador/controller/*.class
+/bin/br/com/enviador/model/*.class
+*.class
+/target/
+
+*.exe
+/bin/
